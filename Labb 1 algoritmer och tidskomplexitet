@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 
+Console.WriteLine("Hello, World!");
 class Program
 {
 
